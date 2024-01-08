@@ -1,0 +1,5 @@
+https://github.com/dingran/quant-notes
+https://github.com/iamtodor/data-science-interview-questions-and-answers
+https://github.com/kojino/120-Data-Science-Interview-Questions
+https://github.com/alexeygrigorev/data-science-interviews
+
